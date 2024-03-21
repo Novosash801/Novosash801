@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student </h3>
 .  
 
-- 🚀 I'm studying in TPU 
+- 🚀 I'm studying at the TPU 
 
 - 🌱 I’m currently learning: <strong>TypeScript, React, Redux</strong>   
 
