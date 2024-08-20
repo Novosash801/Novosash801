@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning: <strong>TypeScript, React, Redux</strong>   
 
-- 🔭 I’m currently working on <strong>Marvel API</strong> ...
 
 
 
